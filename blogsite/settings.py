@@ -129,7 +129,7 @@ MEDIA_URL = '/uploads/'
 LOGIN_URL = "/login"
 
 CSRF_TRUSTED_ORIGINS = [
-    'https://web-production-571a.up.railway.app/'
+    'https://web-production-571a.up.railway.app'
 ]
 
 
